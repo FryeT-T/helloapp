@@ -6,6 +6,8 @@ namespace Program
         static void Main()
         {
             Console.WriteLine("hello everyone");
+            greetWhite()
+            greetBlack()
         }
         static void greetWhite()
         {
