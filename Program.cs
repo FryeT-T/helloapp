@@ -5,7 +5,7 @@ namespace Program
     {
         static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("hello everyone");
         }
         static void greetWhite()
         {
